@@ -1,0 +1,7 @@
+/root/Judger/build/CMakeFiles/install/strip.dir
+/root/Judger/build/CMakeFiles/install/local.dir
+/root/Judger/build/CMakeFiles/install.dir
+/root/Judger/build/CMakeFiles/list_install_components.dir
+/root/Judger/build/CMakeFiles/rebuild_cache.dir
+/root/Judger/build/CMakeFiles/edit_cache.dir
+/root/Judger/build/CMakeFiles/libjudger.so.dir
